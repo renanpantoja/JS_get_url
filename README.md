@@ -1,5 +1,5 @@
 # JS_get_url
-GET_URL for javascript similar to $_GET on php
+Emualtor JS/PHP. GET_URL for javascript similar to $_GET on php
 
 #Content
 
